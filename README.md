@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Budding Full Stack Web Developer
 --------------------------------
 
-Learning full-stack developer exploring the world of web development with passion and code.
+I'm a Learning full-stack developer, exploring the world of web development with passion and code.
 
 *   🌍  I'm based in Pune, India
 *   ✉️  You can contact me at [deshmukhmehmood1@gmail.com](mailto:deshmukhmehmood1@gmail.com)
