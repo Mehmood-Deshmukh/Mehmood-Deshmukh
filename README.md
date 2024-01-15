@@ -16,9 +16,7 @@ I'm a Learning full-stack developer, exploring the world of web development with
    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/_static/images/documentation.svg" width="36" height="36" alt="Numpy" /></a>
    <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://numpy.org/images/logo.svg" width="36" height="36" alt="Numpy" /></a>
    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36"/> </a>
-   
-
-                    </p>
+   </p>
                     <b>My GitHub Stats</b>
                
                     
