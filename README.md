@@ -22,7 +22,7 @@ I'm a Learning full-stack developer, exploring the world of web development with
    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36"/> </a>
    </p>
 
-## 📊 &nbsp;Stats
+## &nbsp;Stats
 
 <div align="center">
 
