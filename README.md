@@ -24,9 +24,14 @@ I'm a Learning full-stack developer, exploring the world of web development with
 
 ## 📊 &nbsp;Stats
 
+<div align="center">
+
 ![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=Mehmood-Deshmukh&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mehmood-Deshmukh&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehmood-Deshmukh&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mehmood's language" height="192px"  width="500px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehmood-Deshmukh&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mehmood's language" height="192px" width="500px" />
+
+</div>
+
 
