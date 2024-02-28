@@ -8,7 +8,7 @@ I'm a Learning full-stack developer, exploring the world of web development with
 
 *   🌍  I'm based in Pune, India
 *   ✉️  You can contact me at [deshmukhmehmood1@gmail.com](mailto:deshmukhmehmood1@gmail.com)
-*   🚀  I'm currently working on [LyricQuest- An Api-Based Lyrics App](https://github.com/Mehmood-Deshmukh/LyricQuest)
+*   🚀  I'm currently working on [Cinesphere- A Movie Recommendation App](https://github.com/Mehmood-Deshmukh/Cinesphere)
 *   🧠  I'm currently exploring Machine Learning
 
 <h4 align="center">Visitor's count </h4>
