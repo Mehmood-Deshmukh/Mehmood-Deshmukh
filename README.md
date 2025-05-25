@@ -1,15 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mehmood Deshmukh
 ========================================================================================================================================
 
-Full Stack Web Developer
+Computer Enginnering Student @COEP Tech, Pune
 --------------------------------
 
-I'm a Learning full-stack developer, exploring the world of web development with passion and code.
-
+I'm a Computer Enginnering student, always eager to learn more!
 *   🌍  I'm based in Pune, India
 *   ✉️  You can contact me at [deshmukhmehmood1@gmail.com](mailto:deshmukhmehmood1@gmail.com)
-*   🚀  I'm currently working on [CodeVault-check it out!](https://github.com/YashwantBhosale/CodeVault)
-*   🧠  I'm currently exploring Machine Learning
+*   🚀  I'm currently working on a garbage Collector in C.
 
 <h4 align="center">Visitor's count </h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Mehmood-Deshmukh}/count.svg" alt="Mehmood Deshmukh Visitor's count" /></p>
